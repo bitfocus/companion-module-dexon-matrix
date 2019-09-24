@@ -6,3 +6,6 @@
 
 **V1.0.0**
 * Added Presets
+
+**V1.0.1**
+* Modified config settings to match other DEXON modules

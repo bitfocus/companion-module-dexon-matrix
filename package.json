@@ -1,6 +1,6 @@
 {
   "name": "dexon-matrix",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"api_version": "1.0.0",
 	"description": "DEXON Matrix 4x4 & 8x4",
 	"keywords": [
