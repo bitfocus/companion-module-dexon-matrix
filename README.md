@@ -1,4 +1,5 @@
 # companion-module-dexon-matrix
+See HELP.md and LICENSE
 
 **V0.0.1**
 * Provides essential control over TCP, for more info look in HELP.md
