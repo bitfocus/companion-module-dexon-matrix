@@ -257,7 +257,7 @@ instance.prototype.CHOICES_OUTPUTS = [
 instance.prototype.actions = function(system) {
 	var self = this;
 
-	self.system.emit('instance_actions', self.id, {
+	self.setActions({
 		'login': {
 			label: 'Force Login',
 			options: [{
